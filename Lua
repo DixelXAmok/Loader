@@ -75,14 +75,14 @@ print("Auto Hub Basketball Stars 2 Loaded")
 
 elseif gameId == 3057370181 then
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/DixelXAmok/RBWorld4-HoopCentral6/main/Lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/DixelXAmok/UF-Noobs/main/Lua"))()
 print("Auto Hub RB World 4 Loaded")
 
 
 
 elseif gameId == 2730121456 then
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/DixelXAmok/RBWorld4-HoopCentral6/main/Lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/DixelXAmok/UF-Noobs/main/Lua"))()
 print("Auto Hub Hoop Central 6")
 
 
