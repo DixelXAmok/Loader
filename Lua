@@ -6,7 +6,7 @@ local gameId = game.GameId
 if gameId == 3150475059 then
 
 loadstring(game:HttpGet('https://raw.githubusercontent.com/DixelXAmok/FF2Windows/main/Lua',true))()
-print("Auto Hub Football Fusion 2 Windows Loaded")
+print("Device detected, success!")
 
 
 
