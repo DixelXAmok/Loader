@@ -5,16 +5,8 @@ local gameId = game.GameId
 
 if gameId == 3150475059 then
 
-loadstring(game:HttpGet('https://raw.githubusercontent.com/DixelXAmok/FF2Windows/main/Lua',true))()
+loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/62e8fbb1258f182c8a59df4f439a7eba.lua"))() -- Football Fusion 2 {Windows/Mac/Mobile.}
 print("Device detected, success!")
-
-
-
-elseif gameId == 3150475059 then
-
-loadstring(game:HttpGet("https://raw.githubusercontent.com/DixelXAmok/UF-Noobs/main/Lua"))()
-print("Auto Hub Ultimate Football Loaded")
-
 
 
 
