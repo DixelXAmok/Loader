@@ -10,84 +10,10 @@ print("Device detected, success!")
 
 
 
-elseif gameId == 184199275 then
+elseif gameId == 3150475059 then
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/DixelXAmok/UF-Noobs/main/Lua"))()
 print("Auto Hub Ultimate Football Loaded")
-
-
-
-elseif gameId == 2436810968 then
-
-loadstring(game:HttpGet("https://raw.githubusercontent.com/DixelXAmok/UF-Noobs/main/Lua"))()
-print("Auto Hub Football Noobs Loaded")
-
-
-
-elseif gameId == 2249486280 then
-
-loadstring(game:HttpGet("https://raw.githubusercontent.com/DixelXAmok/Auto3s-Arena3-Arena4-Stars2/main/Lua"))()
-print("Auto Hub Auto 3s Loaded")
-
-
-
-elseif gameId == 736339865 then
-
-loadstring(game:HttpGet("https://raw.githubusercontent.com/DixelXAmok/Auto3s-Arena3-Arena4-Stars2/main/Lua"))()
-print("Auto Hub Arena Football 3 Loaded")
-
-
-
-elseif gameId == 715825614 then
-
-loadstring(game:HttpGet("https://raw.githubusercontent.com/DixelXAmok/Auto3s-Arena3-Arena4-Stars2/main/Lua"))()
-print("Auto Hub Arena Football 4 Loaded")
-
-
-
-elseif gameId == 3144493466 then
-
-loadstring(game:HttpGet("https://raw.githubusercontent.com/DixelXAmok/Auto3s-Arena3-Arena4-Stars2/main/Lua"))()
-print("Auto Hub Football Stars 2 Loaded")
-
-
-
-elseif gameId == 2931782391 then
-
-loadstring(game:HttpGet("https://raw.githubusercontent.com/DixelXAmok/HoopsLife-Basketball-Stars1-2/main/Lua"))()
-print("Auto Hub Hoops Life Basketball Loaded")
-
-
-
-elseif gameId == 2730778059 then
-
-loadstring(game:HttpGet("https://raw.githubusercontent.com/DixelXAmok/HoopsLife-Basketball-Stars1-2/main/Lua"))()
-print("Auto Hub Basketball Stars 1 Loaded")
-
-
-
-elseif gameId == 3766677499 then
-
-loadstring(game:HttpGet("https://raw.githubusercontent.com/DixelXAmok/HoopsLife-Basketball-Stars1-2/main/Lua"))()
-print("Auto Hub Basketball Stars 2 Loaded")
-
-
-
-elseif gameId == 3057370181 then
-
-loadstring(game:HttpGet("https://raw.githubusercontent.com/DixelXAmok/UF-Noobs/main/Lua"))()
-print("Auto Hub RB World 4 Loaded")
-
-
-
-elseif gameId == 2730121456 then
-
-loadstring(game:HttpGet("https://raw.githubusercontent.com/DixelXAmok/UF-Noobs/main/Lua"))()
-print("Auto Hub Hoop Central 6")
-
-
-
-
 
 
 
