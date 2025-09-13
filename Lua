@@ -1,14 +1,21 @@
 -- No Skidding!
 
 
+
+
 local gameId = game.GameId
 
 if gameId == 3150475059 then
 
+-- Football Fusion 2
 
-
+loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/9a654a063118598c001c841a304e1d3b.lua"))()
+print("Device detected, success!")
 
 
 else
     game.Players.LocalPlayer:Kick("Auto Hub does NOT Support this game")
 end
+
+
+
